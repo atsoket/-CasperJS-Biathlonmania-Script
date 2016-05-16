@@ -40,6 +40,10 @@ line 43			document.getElementById("pass").value="YOUR_FACEBOOK_PASSWORD";
 casperjs --ssl-protocol=tlsv1 biathlonmania.js
 ```
 
+Successful execution:
+![alt tag](http://web.ist.utl.pt/daniel.da.costa/images/biathlon.png "Successful execution")
+
+
 [3.5] Run in loop **Linux**
 ```
 for i in {1..99999}; do casperjs --ssl-protocol=tlsv1 biat.js; done
