@@ -39,7 +39,7 @@ casper.then(function(){
 
     casper.withPopup(/.*/, function(){
 		casper.evaluate(function(){
-			document.getElementById("email").value="YOUR_FACEBOOK_USERNAME"";
+			document.getElementById("email").value="YOUR_FACEBOOK_USERNAME";
 			document.getElementById("pass").value="YOUR_FACEBOOK_PASSWORD";
 		});
 		casper.click("#u_0_2");
