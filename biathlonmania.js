@@ -1,6 +1,6 @@
 /**
 	Author: Daniel Costa (github.com/atsoket/)
-	How to run: 1st - Fill in the email and password fields(Line 41 and 42)
+	How to run: 1st - Fill in the email and password fields(Line 42 and 43)
 				2nd - execute the following command: casperjs --ssl-protocol=tlsv1 biathlonmania.js
 	Note: This script will take screenshots to show the progress. 
 */
