@@ -1,5 +1,7 @@
 # CasperJS-Biathlonmania-Script
-This script will sign sponsorship deals and increase attributes. (All by itself)
+This script will "play" [biathlonmania](http://s1.biathlonmania.com/) for you.
+
+It will sign sponsorship deals and increase attributes. (All by itself)
 
 ## How to run
 
